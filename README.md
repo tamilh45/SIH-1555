@@ -1,26 +1,68 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
-## Problem Title
-SIH 1555: Create a Virtual Herbal Garden that provides an interactive, educational, and immersive experience to users, showcasing the diverse range of medicinal plants used in AYUSH (Ayurveda, Yoga & Naturopathy, Unani, Siddha, and Homeopathy).
+# Date: 13/11/2025
+## Register Number: 212223110058
+## Name: Tamil Pavalan M
+
+## Problem Title 
+
+Development of e-Portal for facilitating Case Management Hearing of various types of cases
+
 ## Problem Description
-Background: The AYUSH sector relies heavily on medicinal plants and herbs, which form the backbone of traditional healing practices. However, physical gardens that are not accessible to everyone. A Virtual Herbal Garden will bridge this gap by offering a digital platform where users can explore, learn, and understand the significance of various medicinal plants from the comfort of their homes. Description: Participants are tasked with developing a Virtual Herbal Garden that is engaging, informative, and user-friendly. This virtual garden should include: Interactive 3D Models: Realistic 3D models of medicinal plants that users can rotate, zoom, and explore from different angles. Detailed Information: Comprehensive details about each plant, including its botanical name, common names, habitat, medicinal uses, and methods of cultivation. Multimedia Integration: High-quality images, videos, and audio descriptions to enhance the learning experience. Search and Filter Options: Advanced search functionality to easily locate specific plants and filter them based on various criteria like medicinal uses, region, and type. Virtual Tours: Guided virtual tours highlighting specific themes, such as plants for digestive health, immunity, skin care, etc. User Interaction: Features that allow users to bookmark favourite plants, take notes, and share information on social media. Expected Outcome: The expected outcome is a comprehensive Virtual Herbal Garden that serves as a valuable educational tool for students, practitioners, and enthusiasts of the AYUSH sector. This platform should make the knowledge of medicinal plants accessible to a wider audience, promoting awareness and understanding of traditional herbal practices. It should be visually appealing, informative, and interactive, providing users with an immersive experience that combines technology with traditional knowledge.
+
+Developing an e-Portal for facilitating Case Management Hearings involves creating a digital platform that streamlines the process of managing legal cases. The portal would serve various stakeholders, including lawyers, judges, court staff, and possibly litigants, by offering tools and features that make case management more efficient and accessible.
 
 ## Problem Creater's Organization
-Ministry of Ayush
+
+Ministry of Law and Justice
 
 ## Idea
+1.Automated Legal Research: 
+Integrate AI tools that analyze submitted case files and automatically suggest relevant case laws, precedents, and legal arguments, saving time for lawyers and judges.
+
+2.Dynamic Scheduling Assistant: 
+Implement an AI-powered scheduling assistant that optimizes hearing dates based on the availability of all parties, prioritizing urgent cases and reducing delays.
+
+3.Immersive Courtrooms: 
+Develop a VR environment where participants can virtually attend hearings, offering a more realistic experience than traditional video conferencing.
+
+4.Secure Evidence Management: 
+Use blockchain technology to store and track evidence submissions, ensuring that all documents and evidence are tamper-proof and have a clear audit trail.
+
+5.Automated Document Classification: 
+Use NLP to automatically categorize and tag documents based on their content, making it easier to organize and retrieve case files.
+
+
+
+
 
 
 ## Proposed Solution / Architecture Diagram
+![image](https://github.com/user-attachments/assets/0517b1e0-c7ba-4aa3-9ac7-0daa5cf88f86)
 
 
 ## Use Cases
+![image](https://github.com/user-attachments/assets/8d0f7cad-5c4f-41f7-8888-f9bd92460a0d)
 
 
 ## Technology Stack
+Vue.js
 
+Java (Spring Boot)
+
+Relational Databases (SQL)
+
+gRPC
+
+Google Cloud Platform (GCP)
+
+OAuth 2.0
 
 ## Dependencies
+
+Planning and Requirements Gathering (2-4 weeks)
+
+Deployment Phase (2-4 weeks)
+
+## Budget 
+Rs.60.000
 
